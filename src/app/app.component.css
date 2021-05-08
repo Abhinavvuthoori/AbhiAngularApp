@@ -58,3 +58,6 @@ hr{
 .bt{
     margin-left: 50%;
 }
+.nav-link{
+    font-weight: bold;
+}
