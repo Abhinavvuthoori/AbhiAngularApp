@@ -1,0 +1,56 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+
+h2{
+    color: chartreuse;
+    text-align: center;
+    font-size: larger;
+}
+
+.btn{
+    background-color: #e50073;
+    color: white;
+    box-shadow: none;
+    border-radius: 0px;
+}
+
+.itemlistHeader{
+    background-color: #ab4a82;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+hr{
+    box-shadow: 2px 2px 1px #366F68;
+}
+
+.item{
+    box-shadow: 2px 2px 5px #336689;
+    color: rgb(7,3,3);
+    padding: 5px;
+    max-width: 300px;
+    margin: auto;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.item:hover{
+    background-color: #336689;
+    color: white;
+}
+
+.deleteBtn{
+    float: right;
+    background-color: #cf1e28;
+}
+
+.form-control{
+    border: none;
+    border-bottom: 2px solid black;
+    background-color: transparent;
+    box-shadow: none;
+    border-radius: 0px;
+}
